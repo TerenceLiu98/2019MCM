@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Restatment of the Problem}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Assumption}{3}{section.2}% 
+\contentsline {section}{\numberline {3}Justification of Our Approach}{3}{section.3}% 
+\contentsline {section}{\numberline {4}the Model}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Dissatisfaction of a passenger needing a connection}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Dissatisfaction of a passenger not needing a connection}{3}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Total dissatisfaction ofn an aircraft}{3}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Testing th Model}{3}{section.5}% 
+\contentsline {section}{\numberline {6}Results}{3}{section.6}% 
+\contentsline {section}{\numberline {7}Strengths and Weaknesses}{3}{section.7}% 
+\contentsline {section}{\numberline {8}References}{3}{section.8}% 

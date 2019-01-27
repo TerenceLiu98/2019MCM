@@ -1,0 +1,58 @@
+%!TeX program = xelatex
+%!TeX builder = latexmk
+\documentclass{mcmthesis}
+
+\usepackage{blindtext}      % 提供 \blindtext 命令，演示用
+
+\title{The Title}
+\author{He Yi \and Liu JunJie \and Tu Jiachen}
+\date{today}
+\mcmsetup{tcn = 1903105, problem = D, titlepage = true}
+\allowdisplaybreaks[4]
+\usepackage{indentfirst}%首行缩进
+\RequirePackage[titles]{tocloft}
+%\renewcommand{\cftdot}{$\dot$}
+\renewcommand{\cftdotsep}{3}
+\renewcommand{\cftsecdotsep}{\cftdotsep}
+\linespread{1.1}\selectfont%调整行间距
+\begin{document}
+
+\begin{abstract}
+The Louvre or the Louvre Museum is the  largest art museum isin the worldwide, also is the             % 演示用无意义文字
+\begin{keywords}
+Simulation; Optimization; Cellular Automata; Ant Colony Optimization; Evacuation Model
+\end{keywords}
+\end{abstract}
+
+\maketitle                  % 打印控制页等
+
+\tableofcontents %table 
+
+\newpage
+
+\section{Restatment of the Problem}
+Since appreciating art refreshes citizens’ mind, places of recreation and culture such as museums and theaters are all perfect choices for art lovers to relax and have a taste of art in the spare time. The Louvre is one of the most famous museums all over the world and it serves several million tourists every year. However, museums such as the Louvre also exist some hidden danger as they have relatively closed space and customers are not familiar with the channels. When a sudden event occurs, it is not easy to evacuate the crowd as quick as possible and protect them from harm. Emergency should be considered when designing the constructions and evacuation plan is a must before the constructions come into use.
+Normally, objective environmental condition and behavioral orientation of tourists should be considered in the evacuation plan.
+Here, the Louvre is a five-story building with exits at only specific floors. Tourists must reach those specific floors first to exit the Louvre. All the five floors of the Louvre are considered as two-dimensional plain in the evacuation simulation. The tourists could only use the stairs connecting two floors to go upstairs or go downstairs to reach the floor with exit. Also, different kinds of tourists challenge the evacuation plan because they have different physical conditions and educational level. To furthest prevent the harm, it is required to evacuate all the tourists in the shortest possible time according to make use of all usual escape ways. Although there actually exists more exists, they are not to be used until the four main exits cannot satisfy the need of evacuation during a limited time. When the last tourist exits the Louvre, the whole evacuation process ends.
+
+\section{Assumption}
+
+\section{Justification of Our Approach}
+
+\section{the Model}
+
+\subsection{Dissatisfaction of a passenger needing a connection}
+
+\subsection{Dissatisfaction of a passenger not needing a connection}
+
+\subsection{Total dissatisfaction ofn an aircraft}
+
+\section{Testing th Model}
+
+\section{Results}
+
+\section{Strengths and Weaknesses}
+
+\section{References}
+           % 演示用无意义文字
+\end{document}
